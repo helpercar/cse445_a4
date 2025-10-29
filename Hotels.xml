@@ -12,7 +12,7 @@
                 <Zip>85281</Zip>
                 <NearestAirport>Sky Harbor</NearestAirport>
             </Address>
-        <HotelType>
+        </HotelType>
         <Rating>4.2</Rating>
     </Hotel>
     <Hotel>
@@ -27,7 +27,7 @@
                 <Zip>90210</Zip>
                 <NearestAirport>Los Angeles International Airport</NearestAirport>
             </Address>
-        <HotelType>
+        </HotelType>
         <Rating>4.7</Rating>
     </Hotel>
     <Hotel>
@@ -42,7 +42,7 @@
                 <Zip>94105</Zip>
                 <NearestAirport>Monterey Regional Airport</NearestAirport>
             </Address>
-        <HotelType>
+        </HotelType>
         <Rating>4.5</Rating>
     </Hotel>
     <Hotel>
@@ -57,7 +57,7 @@
                 <Zip>63857</Zip>
                 <NearestAirport>Blytheville AFB Airport</NearestAirport>
             </Address>
-        <HotelType>
+        </HotelType>
         <Rating>2.7</Rating>
     </Hotel>
     <Hotel>
@@ -72,7 +72,7 @@
                 <Zip>96761</Zip>
                 <NearestAirport>Kapalua Airport</NearestAirport>
             </Address>
-        <HotelType>
+        </HotelType>
         <Rating>4.6</Rating>
     </Hotel>
     <Hotel>
@@ -87,7 +87,7 @@
                 <Zip>59758</Zip>
                 <NearestAirport>Yellowstone Airport</NearestAirport>
             </Address>
-        <HotelType>
+        </HotelType>
         <Rating>4.4</Rating>
     </Hotel>
     <Hotel>
@@ -102,7 +102,7 @@
                 <Zip>89109</Zip>
                 <NearestAirport>Harry Reid International Airport</NearestAirport>
             </Address>
-        <HotelType>
+        </HotelType>
         <Rating>4.2</Rating>
     </Hotel>
     <Hotel>
@@ -117,7 +117,7 @@
                 <Zip>30123</Zip>
                 <NearestAirport>Marco Polo Airport</NearestAirport>
             </Address>
-        <HotelType>
+        </HotelType>
         <Rating>4.9</Rating>
     </Hotel>
     <Hotel>
@@ -132,7 +132,7 @@
                 <Zip>70358</Zip>
                 <NearestAirport>Louis Armstrong Intl Airport</NearestAirport>
             </Address>
-        <HotelType>
+        </HotelType>
         <Rating>3.8</Rating>
     </Hotel>
     <Hotel>
@@ -147,7 +147,7 @@
                 <Zip>10036</Zip>
                 <NearestAirport>LaGuardia Airport</NearestAirport>
             </Address>
-        <HotelType>
+        </HotelType>
         <Rating>4.3</Rating>
     </Hotel>
 </Hotels>
