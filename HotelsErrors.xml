@@ -3,30 +3,30 @@
             <Name>Westin</Name>
             <PhoneNumber>480-968-8885</PhoneNumber>
             <PhoneNumber>800-937-8461</PhoneNumber>
-            <AddressType>
+            <Address>
                 <Number>11</Number>
                 <Street>E.7th St</Street>
                 <City>Tempe</City>
                 <State>AZ</State>
                 <Zip>85281</Zip>
-            </AddressType>
+            </Address>
             <Rating>4.2</Rating>
         </Hotel>
         <Hotel>
                 <Name>The Beverly Hills Hotel</Name>
-                <AddressType>
+                <Address>
                     <Number>9641</Number>
                     <Street>Sunset Blvd</Street>
                     <City>Beverly Hills</City>
                     <State>CA</State>
                     <Zip>90210</Zip>
                     <NearestAirport>Los Angeles International Airport</NearestAirport>
-                </AddressType>
+                </Address>
             <Rating>4.7</Rating>
         </Hotel>
         <Hotel>
                 <Name>Post Ranch Inn</Name>
-                <AddressType>
+                <Address>
                     <Number>2</Number>
                     <Street>New Montgomery St</Street>
                     <City>San Francisco</City>
@@ -39,92 +39,92 @@
                 <Name>Super 8</Name>
                 <Name>Not The Hotel Name</Name>
                 <PhoneNumber>573-888-8800</PhoneNumber>
-                <AddressType>
+                <Address>
                     <Number>1808</Number>
                     <Street>1st St</Street>
                     <City>Kennett</City>
                     <State>MO</State>
                     <Zip>63857</Zip>
                     <NearestAirport>Blytheville AFB Airport</NearestAirport>
-                </AddressType>
+                </Address>
             <Rating>2.7</Rating>
         </Hotel>
         <Hotel>
                 <Name>Napili Sunset Beachfront Resort</Name>
                 <PhoneNumber>808-646-3233</PhoneNumber>
-                <AddressType>
+                <Address>
                     <Number>46</Number>
                     <Street>Hui Drive</Street>
                     <City>Lahaina, Maui</City>
                     <State>HI</State>
                     <Zip>96761</Zip>
                     <NearestAirport>Kapalua Airport</NearestAirport>
-                </AddressType>
+                </Address>
             <Rating>4.6</Rating>
         </Hotel>
         <Hotel>
                 <Name>Kelly Inn-west Yellowstone</Name>
                 <PhoneNumber>855-285-7959</PhoneNumber>
-                <AddressType>
+                <Address>
                     <Number>104</Number>
                     <Street>S Canyon St</Street>
                     <City>West Yellowstone</City>
                     <State>MT</State>
                     <Zip>59758</Zip>
                     <NearestAirport>Yellowstone Airport</NearestAirport>
-                </AddressType>
+                </Address>
             <Rating>4.4</Rating>
         </Hotel>
         <Hotel>
                 <Name>Fontainebleau Las Vegas</Name>
                 <PhoneNumber>855-598-6592</PhoneNumber>
-                <AddressType>
+                <Address>
                     <Number>2777</Number>
                     <Street>S Las Vegas Blvd</Street>
                     <City>Las Vegas</City>
                     <State>NV</State>
                     <Zip>89109</Zip>
                     <NearestAirport>Harry Reid International Airport</NearestAirport>
-                </AddressType>
+                </Address>
             <Rating>4.2</Rating>
         </Hotel>
         <Hotel>
                 <Name>Hotel Moresco</Name>
                 <PhoneNumber>011-39-041-244-0202</PhoneNumber>
-                <AddressType>
+                <Address>
                     <Number>3499</Number>
                     <Street>Fondamenta del Passamonte</Street>
                     <City>Venezia</City>
                     <State>Italia</State>
                     <Zip>30123</Zip>
                     <NearestAirport>Marco Polo Airport</NearestAirport>
-                </AddressType>
+                </Address>
             <Rating>4.9</Rating>
         </Hotel>
         <Hotel>
                 <Name>Blue Dolphin Inn and Cottages</Name>
                 <PhoneNumber>985-787-3697</PhoneNumber>
-                <AddressType>
+                <Address>
                     <Number>2504</Number>
                     <Street>Highway 1</Street>
                     <City>Grand Isle</City>
                     <State>LA</State>
                     <Zip>70358</Zip>
                     <NearestAirport>Louis Armstrong Intl Airport</NearestAirport>
-                </AddressType>
+                </Address>
             <Rating>3.8</Rating>
         </Hotel>
         <Hotel>
                 <Name>Pod Times Square</Name>
                 <PhoneNumber>516-587-6743</PhoneNumber>
-                <AddressType>
+                <Address>
                     <Number>400</Number>
                     <Street>W 42nd St</Street>
                     <City>New York City</City>
                     <State>NY</State>
                     <Zip>10036</Zip>
                     <NearestAirport>LaGuardia Airport</NearestAirport>
-                </AddressType>
+                </Address>
             <Rating>4.3</Rating>
         </Hotel>
 </Hotels>
