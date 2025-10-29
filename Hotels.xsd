@@ -1,4 +1,4 @@
-<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://helpercar.github.io/cse445_a4/" targetNamespace="https://helpercar.github.io/cse445_a4/" elementFormDefault="qualified" attributeFormDefault="unqualified">
     <xsd:annotation>
         <xsd:documentation xml:lang="en"> CSE445 Assignment4 Hotels Definition </xsd:documentation>
     </xsd:annotation>
@@ -11,10 +11,10 @@
     <xsd:complexType name="HotelDetails">
         <xsd:sequence>
             <xsd:element name="Name" type="xsd:string" minOccurs="1" maxOccurs="1"/>
-            <xsd:element name="PhoneNumber" type="xsd:string" minOccurs="1" maxOccurs="1"/>
+            <xsd:element name="PhoneNumber" type="xsd:string" minOccurs="1" maxOccurs="unbounded"/>
             <xsd:element name="Address" type="AddressType" minOccurs="1" maxOccurs="1"/>
         </xsd:sequence>
-        <xsd:attribute name="Office" type="xsd:string" use="optional"/>
+        <xsd:attribute name="Rating" type="xsd:string" use="optional"/>
     </xsd:complexType>
     <xsd:complexType>
         <xsd:sequence>
