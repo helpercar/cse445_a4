@@ -24,7 +24,7 @@
         </Hotel>
         <Hotel Rating="4.5">
                 <Name>Post Ranch Inn</Name>
-                <Address, NearestAirport="Monterey Regional Airport">
+                <Address NearestAirport="Monterey Regional Airport">
                     <Number>2</Number>
                     <Street>New Montgomery St</Street>
                     <City>San Francisco</City>
