@@ -15,4 +15,139 @@
         <HotelType>
         <Rating>4.2</Rating>
     </Hotel>
+    <Hotel>
+        <HotelType>
+            <Name>The Beverly Hills Hotel</Name>
+            <PhoneNumber>310-276-2251</PhoneNumber>
+            <Address>
+                <Number>9641</Number>
+                <Street>Sunset Blvd</Street>
+                <City>Beverly Hills</City>
+                <State>CA</State>
+                <Zip>90210</Zip>
+                <NearestAirport>Los Angeles International Airport</NearestAirport>
+            </Address>
+        <HotelType>
+        <Rating>4.7</Rating>
+    </Hotel>
+    <Hotel>
+        <HotelType>
+            <Name>Post Ranch Inn</Name>
+            <PhoneNumber>415-512-1111</PhoneNumber>
+            <Address>
+                <Number>2</Number>
+                <Street>New Montgomery St</Street>
+                <City>San Francisco</City>
+                <State>CA</State>
+                <Zip>94105</Zip>
+                <NearestAirport>Monterey Regional Airport</NearestAirport>
+            </Address>
+        <HotelType>
+        <Rating>4.5</Rating>
+    </Hotel>
+    <Hotel>
+        <HotelType>
+            <Name>Super 8</Name>
+            <PhoneNumber>573-888-8800</PhoneNumber>
+            <Address>
+                <Number>1808</Number>
+                <Street>1st St</Street>
+                <City>Kennett</City>
+                <State>MO</State>
+                <Zip>63857</Zip>
+                <NearestAirport>Blytheville AFB Airport</NearestAirport>
+            </Address>
+        <HotelType>
+        <Rating>2.7</Rating>
+    </Hotel>
+    <Hotel>
+        <HotelType>
+            <Name>Napili Sunset Beachfront Resort</Name>
+            <PhoneNumber>808-646-3233</PhoneNumber>
+            <Address>
+                <Number>46</Number>
+                <Street>Hui Drive</Street>
+                <City>Lahaina, Maui</City>
+                <State>HI</State>
+                <Zip>96761</Zip>
+                <NearestAirport>Kapalua Airport</NearestAirport>
+            </Address>
+        <HotelType>
+        <Rating>4.6</Rating>
+    </Hotel>
+    <Hotel>
+        <HotelType>
+            <Name>Kelly Inn-west Yellowstone</Name>
+            <PhoneNumber>855-285-7959</PhoneNumber>
+            <Address>
+                <Number>104</Number>
+                <Street>S Canyon St</Street>
+                <City>West Yellowstone</City>
+                <State>MT</State>
+                <Zip>59758</Zip>
+                <NearestAirport>Yellowstone Airport</NearestAirport>
+            </Address>
+        <HotelType>
+        <Rating>4.4</Rating>
+    </Hotel>
+    <Hotel>
+        <HotelType>
+            <Name>Fontainebleau Las Vegas</Name>
+            <PhoneNumber>855-598-6592</PhoneNumber>
+            <Address>
+                <Number>2777</Number>
+                <Street>S Las Vegas Blvd</Street>
+                <City>Las Vegas</City>
+                <State>NV</State>
+                <Zip>89109</Zip>
+                <NearestAirport>Harry Reid International Airport</NearestAirport>
+            </Address>
+        <HotelType>
+        <Rating>4.2</Rating>
+    </Hotel>
+    <Hotel>
+        <HotelType>
+            <Name>Hotel Moresco</Name>
+            <PhoneNumber>011-39-041-244-0202</PhoneNumber>
+            <Address>
+                <Number>3499</Number>
+                <Street>Fondamenta del Passamonte</Street>
+                <City>Venezia</City>
+                <State>Italia</State>
+                <Zip>30123</Zip>
+                <NearestAirport>Marco Polo Airport</NearestAirport>
+            </Address>
+        <HotelType>
+        <Rating>4.9</Rating>
+    </Hotel>
+    <Hotel>
+        <HotelType>
+            <Name>Blue Dolphin Inn and Cottages</Name>
+            <PhoneNumber>985-787-3697</PhoneNumber>
+            <Address>
+                <Number>2504</Number>
+                <Street>Highway 1</Street>
+                <City>Grand Isle</City>
+                <State>LA</State>
+                <Zip>70358</Zip>
+                <NearestAirport>Louis Armstrong Intl Airport</NearestAirport>
+            </Address>
+        <HotelType>
+        <Rating>3.8</Rating>
+    </Hotel>
+    <Hotel>
+        <HotelType>
+            <Name>Pod Times Square</Name>
+            <PhoneNumber>516-587-6743</PhoneNumber>
+            <Address>
+                <Number>400</Number>
+                <Street>W 42nd St</Street>
+                <City>New York City</City>
+                <State>NY</State>
+                <Zip>10036</Zip>
+                <NearestAirport>LaGuardia Airport</NearestAirport>
+            </Address>
+        <HotelType>
+        <Rating>4.3</Rating>
+    </Hotel>
 </Hotels>
