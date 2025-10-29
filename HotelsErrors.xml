@@ -1,5 +1,4 @@
 <Hotel xmlns="https://helpercar.github.io/cse445_a4/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://helpercar.github.io/cse445_a4/Hotels.xsd">
-    <HotelsType>
         <Hotel>
             <Name>Westin</Name>
             <PhoneNumber>480-968-8885</PhoneNumber>
@@ -128,5 +127,4 @@
                 </AddressType>
             <Rating>4.3</Rating>
         </Hotel>
-    </HotelsType>
 </Hotels>
