@@ -1,5 +1,5 @@
 <Hotel xmlns="https://helpercar.github.io/cse445_a4/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://helpercar.github.io/cse445_a4/Hotels.xsd">
-        <Hotel Rating=4.2>
+        <Hotel Rating="4.2">
                 <Name>Westin</Name>
                 <PhoneNumber>480-968-8885</PhoneNumber>
                 <PhoneNumber>800-937-8461</PhoneNumber>
@@ -11,7 +11,7 @@
                     <Zip>85281</Zip>
                 </Address>
         </Hotel>
-        <Hotel Rating=4.7>
+        <Hotel Rating="4.7">
                 <Name>The Beverly Hills Hotel</Name>
                 <PhoneNumber>310-276-2251</PhoneNumber>
                 <Address>
@@ -22,7 +22,7 @@
                     <Zip>90210</Zip>
                 </Address>
         </Hotel>
-        <Hotel Rating=4.5>
+        <Hotel Rating="4.5">
                 <Name>Post Ranch Inn</Name>
                 <Address, NearestAirport="Monterey Regional Airport">
                     <Number>2</Number>
@@ -32,7 +32,7 @@
                     <Zip>94105</Zip>
                 </Address>
         </Hotel>
-        <Hotel Rating=2.7>
+        <Hotel Rating="2.7">
                 <Name>Super 8</Name>
                 <PhoneNumber>573-888-8800</PhoneNumber>
                 <Address NearestAirport="Blytheville AFB Airport">
@@ -42,7 +42,7 @@
                     <State>MO</State>
                     <Zip>63857</Zip>
         </Hotel>
-        <Hotel Rating = 4.6>
+        <Hotel Rating="4.6">
                 <Name>Napili Sunset Beachfront Resort</Name>
                 <Name>Not The Mama</Name>
                 <PhoneNumber>808-646-3233</PhoneNumber>
@@ -54,7 +54,7 @@
                     <Zip>96761</Zip>
                 </Address>
         </Hotel>
-        <Hotel Rating=4.4>
+        <Hotel Rating="4.4">
                 <Name>Kelly Inn-west Yellowstone</Name>
                 <PhoneNumber>855-285-7959</PhoneNumber>
                 <Address NearestAirport="Yellowstone Airport">
@@ -65,7 +65,7 @@
                     <Zip>59758</Zip>
                 </Address>
         </Hotel>
-        <Hotel Rating=4.2>
+        <Hotel Rating="4.2">
                 <Name>Fontainebleau Las Vegas</Name>
                 <PhoneNumber>855-598-6592</PhoneNumber>
                 <Address NearestAirport="Harry Reid International Airport">
@@ -76,7 +76,7 @@
                     <Zip>89109</Zip>
                 </Address>
         </Hotel>
-        <Hotel Rating=4.9>
+        <Hotel Rating="4.9">
                 <Name>Hotel Moresco</Name>
                 <PhoneNumber>011-39-041-244-0202</PhoneNumber>
                 <Address NearestAirport="Marco Polo Airport">
@@ -87,7 +87,7 @@
                     <Zip>30123</Zip>
                 </Address>
         </Hotel>
-        <Hotel Rating=3.8>
+        <Hotel Rating="3.8">
                 <Name>Blue Dolphin Inn and Cottages</Name>
                 <PhoneNumber>985-787-3697</PhoneNumber>
                 <Address NearestAirport="Louis Armstrong Intl Airport">
@@ -98,7 +98,7 @@
                     <Zip>70358</Zip>
                 </Address>
         </Hotel>
-        <Hotel Rating=4.3>
+        <Hotel Rating="4.3">
                 <Name>Pod Times Square</Name>
                 <PhoneNumber>516-587-6743</PhoneNumber>
                 <Address NearestAirport="LaGuardia Airport">
